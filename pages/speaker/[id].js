@@ -40,6 +40,7 @@ const Speaker = () => {
 
   const {
     speaker: {
+      id,
       firstname,
       lastname,
       speakerId,
